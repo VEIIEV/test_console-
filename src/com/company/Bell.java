@@ -6,6 +6,9 @@ public class Bell {
     public Bell() {
         count = 0;
     }
+    public Bell(int i) {
+        count = i;
+    }
 
     public void belling() {
         if ((count++) % 2 == 0) System.out.println("ding");
