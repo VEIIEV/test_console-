@@ -2,6 +2,6 @@ package com.company;
 
 public class NewBrunchTest {
     public void test(){
-        System.out.println("new brunch");
+        System.out.println("main");
     }
 }
